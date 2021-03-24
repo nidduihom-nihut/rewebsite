@@ -316,8 +316,93 @@ img {vertical-align: middle;}
 
 
 
+.t-b{
+  border-bottom: 3px solid rgb(0, 153, 255);
+  margin-top: 115px;
+  box-shadow: 24px 13px 55px 4px #00b1f7;
+}
 
 
+
+/*txt Class*/
+
+.txt-1{
+  color: #0099ff;
+  margin-top: 138px;
+  width: 1100px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.txt-1 img{
+  width: 400px;
+  float: left;
+  display: inline-block;
+  margin-left: 73px;
+  
+  margin-top: -19px;
+}
+
+.txt-1 .m-txt1{
+  margin-top: 50px;
+  margin-left: 500px;
+}
+
+
+
+
+
+
+
+
+
+.txt-2{
+  color: #0099ff;
+  margin-top: 114px;
+  width: 1100px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.txt-2 img{
+  width: 400px;
+  float: left;
+  display: inline-block;
+  margin-left: 150px; 
+  margin-top: -19px;
+}
+
+.txt-2 .m-txt2{
+  margin-top: 50px;
+  margin-left: 600px;
+}
+
+
+
+
+
+
+.txt-3{
+  color: #0099ff;
+  margin-top: 150px;
+  width: 1100px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.txt-3 img{
+  width: 400px;
+  float: left;
+  display: inline-block;
+  margin-left: 73px;
+  
+  margin-top: -19px;
+}
+
+.txt-3 .m-txt3{
+  margin-top: 50px;
+  margin-left: 500px;
+}
+
+
+/**/
 
 
 
