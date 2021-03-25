@@ -336,7 +336,7 @@ img {vertical-align: middle;}
 .txt-1 img{
   width: 400px;
   float: left;
-  display: inline-block;
+
   margin-left: 73px;
   
   margin-top: -19px;
@@ -365,7 +365,6 @@ img {vertical-align: middle;}
 .txt-2 img{
   width: 400px;
   float: left;
-  display: inline-block;
   margin-left: 150px; 
   margin-top: -19px;
 }
@@ -390,7 +389,6 @@ img {vertical-align: middle;}
 .txt-3 img{
   width: 400px;
   float: left;
-  display: inline-block;
   margin-left: 73px;
   
   margin-top: -19px;
@@ -406,7 +404,7 @@ img {vertical-align: middle;}
 
 .f-container{
   width: 100%;
-  height: 300px;
+  height: 100px;
   background: #012035;
   margin-top: 120px;
 }
@@ -414,10 +412,10 @@ img {vertical-align: middle;}
 
 
 .f-container h1{
-  color: #ffffff;
+  color: #0099ff;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 
@@ -427,6 +425,8 @@ img {vertical-align: middle;}
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
 }
 
 
@@ -435,6 +435,7 @@ img {vertical-align: middle;}
 .f-container p{
   color: white;
   text-align: center;
+  color: #0373be;
 }
 
 /*Footer site*/
@@ -467,3 +468,7 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+
+
+
+
